@@ -1,5 +1,5 @@
 ﻿using BufferIO;
-using MidiViewer.Log;
+using MidiViewer.Logging;
 using MidiViewer.Midi.Chunk;
 using MidiViewer.Midi.Chunk.Track;
 using System;

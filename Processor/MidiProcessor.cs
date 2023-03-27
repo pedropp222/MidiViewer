@@ -1,5 +1,4 @@
-﻿using MidiViewer.Log;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -12,6 +11,7 @@ using MidiViewer.Midi.Header;
 using System.Security.Cryptography;
 using MidiViewer.Midi.Chunk;
 using System.Windows.Controls.Primitives;
+using MidiViewer.Logging;
 
 namespace MidiViewer.Processor
 {

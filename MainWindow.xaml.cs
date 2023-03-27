@@ -1,5 +1,5 @@
 ﻿using Microsoft.Win32;
-using MidiViewer.Log;
+using MidiViewer.Logging;
 using MidiViewer.Midi;
 using MidiViewer.Midi.Chunk.Track;
 using MidiViewer.Processor;
